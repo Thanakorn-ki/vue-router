@@ -1,1 +1,1 @@
-"# vue-router" 
+## Deprecated
